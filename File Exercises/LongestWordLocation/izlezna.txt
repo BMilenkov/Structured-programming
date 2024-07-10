@@ -1,0 +1,4 @@
+Zbor: aaaaaaaaaaaaaaa
+Reden broj: 4
+Red: aaaaaaaaaaaaaaa
+Vkupno znaci:15
